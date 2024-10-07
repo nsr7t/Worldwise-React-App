@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "831b",
+      "cityName": "Lagata",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-07T10:06:41.380Z",
+      "notes": "",
+      "position": {
+        "lat": "41.19518982948959",
+        "lng": "-0.81298828125"
+      }
+    }
+  ]
 }
