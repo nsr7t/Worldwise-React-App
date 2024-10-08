@@ -55,10 +55,6 @@ function CitiesProvider({ children }) {
     initialState
   );
 
-  // const [cities, setCities] = useState([]);
-  // const [isLoading, setIsLoading] = useState(false);
-  // const [currentCity, setCurrentCity] = useState({});
-
   useEffect(() => {
     async function fetchCities() {
       dispatch({ type: "loading" });
